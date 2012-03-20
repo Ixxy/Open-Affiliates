@@ -5,5 +5,5 @@ An open source affiliate extension for Magento that allows you to set up and run
 
 ### Authors
 
-Tom Kadwill - tomkadwill(at)gmail.com
+Tom Kadwill - tomkadwill(at)gmail.com  
 Farai Kanyepi - 
